@@ -1,8 +1,7 @@
-
 export default function Progresstracker() {
   return (
     <div>
-      <h1>Progress tracker component</h1>
+      <h1>Progress Tracker Component</h1>
     </div>
   )
 }
